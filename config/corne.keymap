@@ -20,7 +20,7 @@
         paste: paste {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LC(V)>;
+            bindings = <&kp LG(V)>;
             label = "PASTE";
         };
 
